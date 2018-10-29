@@ -1,0 +1,79 @@
+%PDF-1.0
+
+1 0 obj
+<<
+/Type /Catalog
+%/OpenAction
+/Pages 2 0 R
+/Names 6 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [3 0 R]
+>>
+endobj
+
+3 0 obj
+<<
+/Type / Pages
+/Parent 2 0 R
+/Resources << /Fount << /F1 5 0 R >>
+>>
+/MediaBox [0 0 612 792]
+/Contents 4 0 Resources
+>>
+endobj
+
+4 0 obj
+<< /Length 45 >>
+stream
+BT
+/F1 24 Tf
+250 700 Td (Hello, World!) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Arial
+>>
+endobj
+
+6 0 obj
+<<
+/JavaScript 7 0 R
+>>
+endobj
+
+7 0 obj
+<<
+/Names [(Fun) 8 0 R]
+>>
+endobj
+
+8 0 obj
+<<
+/JS (app.alert({cMsg: "Reversing is fun!", cTitle: "Mastering Reverse Engineering"});
+)
+/S /JavaScript
+>>
+endobj
+
+xref
+0 9
+
+trailer
+<<
+/Size 9
+/Root 1 0 R
+>> 
+startxref
+
+%%EOF
