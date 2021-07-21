@@ -48,7 +48,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Reginald Wong**
-has been in the software security industry for more than 15 years. Currently, Reggie is a lead anti-malware researcher at Vipre Security, a J2 Global company, covering various security technologies focused on attacks and malware. He previously worked for Trend Micro as the lead for the Heuristics team, dealing with forward-looking malware detection. Aside from his core work, he has also conducted in-house anti-malware training for fresh graduates. He is currently affiliated with CSPCert.ph, Philippines' CERT, and is a reporter for Wildlist.org. He has also been invited to speak at local security events, including Rootcon.
+has been in the software security industry for more than 15 years. Reggie previously worked as a lead anti-malware researcher at Vipre Security, a J2 Global company, covering various security technologies focused on attacks and malware. He previously worked for Trend Micro as the lead for the Heuristics team, dealing with forward-looking malware detection. Aside from his core work, he has also conducted in-house anti-malware training for fresh graduates. He has also been invited to speak at local security events.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
