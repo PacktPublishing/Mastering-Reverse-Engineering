@@ -9,7 +9,7 @@ This is the code repository for [Mastering Reverse Engineering](https://www.pack
 
 **Re-engineer your ethical hacking skills**
 
-## What is this book about?
+## What is this book about?  ##
 If you want to analyze software in order to exploit its weaknesses and strengthen its defenses, then you should explore reverse engineering. Reverse Engineering is a hackerfriendly tool used to expose security flaws and questionable privacy practices.In this book, you will learn how to analyse software even without having access to its source code or design documents. You will start off by learning the low-level language used to communicate with the computer and then move on to covering reverse engineering techniques.
 
 This book covers the following exciting features:
@@ -18,6 +18,7 @@ Identify and extract malware components
 Explore the tools used for reverse engineering 
 Run programs under non-native operating systems 
 Understand binary obfuscation techniques 
+besic techniques of assembly language
 Identify and analyze anti-debugging and anti-analysis tricks 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/178883884X) today!
@@ -25,7 +26,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
-## Instructions and Navigations
+## Instructions and Navigations  ##
 All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
@@ -44,12 +45,12 @@ If you are a security engineer or analyst or a system programmer and want to use
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781788838849_ColorImages.pdf?).
 
-### Related products
+### Related products  ###
 * Hands-On Cybersecurity for Architects [[Packt]](https://www.packtpub.com/networking-and-servers/hands-cybersecurity-architects?utm_source=github&utm_medium=repository&utm_campaign=9781788830263 ) [[Amazon]](https://www.amazon.com/dp/1788830261)
 
 * Cybersecurity - Attack and Defense Strategies [[Packt]](https://www.packtpub.com/networking-and-servers/cybersecurity-attack-and-defense-strategies?utm_source=github&utm_medium=repository&utm_campaign=9781788475297 ) [[Amazon]](https://www.amazon.com/dp/1788475291)
 
-## Get to Know the Author
+## Get to Know the Author. ###
 **Reginald Wong**
 has been in the software security industry for more than 15 years. Reggie previously worked as a lead anti-malware researcher at Vipre Security, a J2 Global company, covering various security technologies focused on attacks and malware. He previously worked for Trend Micro as the lead for the Heuristics team, dealing with forward-looking malware detection. Aside from his core work, he has also conducted in-house anti-malware training for fresh graduates. He has also been invited to speak at local security events.
 
